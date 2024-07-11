@@ -1,0 +1,15 @@
+.searchBox {
+    margin: 12px auto;
+    margin-left: 20px;
+    display: flex;
+    flex-direction:column;
+}
+
+.searchBox p {
+    margin: 0px;
+}
+
+.input {
+    height: 26px;
+    width: 350px;
+}

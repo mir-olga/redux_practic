@@ -1,0 +1,28 @@
+.formAll {
+    border: 1px solid #212121;
+    border-radius: 3%;
+    margin-left: 20px;
+}
+
+.form {
+    padding: 8px 12px;
+    display: flex;
+    flex-direction:column;
+}
+
+.input {
+    height: 26px;
+    width: 320px;
+}
+
+.button {
+    border: 1px solid #212121;
+    border-radius: 7%;
+    background-color: aliceblue;
+    margin: 5px auto 16px;
+    display: block;
+}
+
+.error {
+    color:rgb(243, 14, 14);
+}
